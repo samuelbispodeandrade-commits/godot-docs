@@ -25,8 +25,7 @@ Godot Docs – *master* branch
             other engine versions using the "Read the Docs" panel at the bottom
             of the sidebar.
 
-Welcome to the official documentation of `Godot Engine <https://godotengine.org>`__,
-the free and open source community-driven 2D and 3D game engine! If you are new
+Welcome to the official documentation of `Godot Engine <https://godotengine.org>`__! If you are new
 to this documentation, we recommend that you read the
 :ref:`introduction page <doc_about_intro>` to get an overview of what this
 documentation has to offer.
