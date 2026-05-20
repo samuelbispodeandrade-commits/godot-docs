@@ -18,11 +18,6 @@ Introduction
         GD.Print("Hello world!");
     }
 
-Welcome to the official documentation of **Godot Engine**, the free and open source
-community-driven 2D and 3D game engine! Behind this mouthful, you will find a
-powerful yet user-friendly tool that you can use to develop any kind of game,
-for any platform and with no usage restriction whatsoever.
-
 This page gives a broad overview of the engine and of this documentation,
 so that you know where to start if you are a beginner or
 where to look if you need information on a specific feature.
@@ -39,29 +34,6 @@ In case you have trouble with one of the tutorials or your project,
 you can find help on the various `Community channels <https://godotengine.org/community/>`_,
 especially the Godot `Discord <https://discord.gg/godotengine>`_ community and
 `Forum <https://forum.godotengine.org/>`_.
-
-About Godot Engine
-------------------
-
-A game engine is a complex tool and difficult to present in a few words.
-Here's a quick synopsis, which you are free to reuse
-if you need a quick write-up about Godot Engine:
-
-    Godot Engine is a feature-packed, cross-platform game engine to create 2D
-    and 3D games from a unified interface. It provides a comprehensive set of
-    common tools, so that users can focus on making games without having to
-    reinvent the wheel. Games can be exported with one click to a number of
-    platforms, including the major desktop platforms (Linux, macOS, Windows),
-    mobile platforms (Android, iOS), as well as Web-based platforms and consoles.
-
-    Godot is completely free and open source under the :ref:`permissive MIT
-    license <doc_complying_with_licenses>`. No strings attached, no royalties,
-    nothing. Users' games are theirs, down to the last line of engine code.
-    Godot's development is fully independent and community-driven, empowering
-    users to help shape their engine to match their expectations.
-    It is supported by the `Godot Foundation <https://godot.foundation/>`_
-    not-for-profit.
-
 
 Organization of the documentation
 ---------------------------------
