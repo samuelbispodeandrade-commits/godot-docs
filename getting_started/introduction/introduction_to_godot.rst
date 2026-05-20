@@ -3,23 +3,16 @@
 Introduction to Godot
 =====================
 
-This article is here to help you figure out whether Godot might be a good fit
-for you. We will introduce some broad features of the engine to give you a feel
-for what you can achieve with it and answer questions such as "what do I need to
-know to get started?".
+This article will help you decide whether Godot is a good fit for you. We’ll introduce the engine’s basic features, show you what it’s capable of, and answer questions like “What do I need to know to get started?”
 
-This is by no means an exhaustive overview. We will introduce many more features
-in this getting started series.
+This is not a comprehensive overview of the engine. Other features will be covered throughout this getting started series.
 
 What is Godot?
 --------------
 
-Godot is a general-purpose 2D and 3D game engine designed to support all sorts
-of projects. You can use it to create games or applications you can then release
-on desktop or mobile, as well as on the web.
+The Godot Engine is a general-purpose engine (meaning you can use it to create games or applications) designed to support any type of project you can imagine. It is completely free and open-source, licensed under the permissive MIT license (no restrictions, no royalties, nothing). Users’ projects belong to them, down to the very last line of code in the engine. Developed by a community of volunteers, Godot’s development is entirely independent and community-driven, allowing users to shape the engine to meet their expectations. It is supported by the Godot Foundation, a nonprofit organization.
 
-You can also create console games with it, although you either need strong
-programming skills or a developer to port the game for you.
+Godot offers a comprehensive set of complex, powerful, and easy-to-use tools, allowing users to focus on creating games without having to reinvent the wheel. It can be used to develop any type of game, for any platform, and with no usage restrictions. Games can be exported with a single click to multiple platforms (which makes Godot cross-platform), including major desktop platforms (Linux, macOS, Windows), mobile platforms (Android, iOS), as well as web platforms. You can also create console games with it, although you’ll need solid programming skills or a developer to port the game for you.
 
 .. note:: For information about console support, see the `Godot website <https://godotengine.org/consoles/>`_.
 
